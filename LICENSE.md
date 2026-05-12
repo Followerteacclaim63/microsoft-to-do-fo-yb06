@@ -1,4 +1,4 @@
-#  
+#  automatic Microsoft To Do for macOS Script | auto-sync + custom shortcuts offers the most advanced Microsoft To Do for macOS script, with auto-sync and custom shortcuts. Ideal for
 
 
 
